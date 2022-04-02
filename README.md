@@ -1,6 +1,6 @@
 # SanbercodeCourse-Python_Public_Opinion_and_Analysis
 ini merupakan latihan dari modul-modul yang diberikan selama mengikuti online training di sanbercode.
-# Materi Pembelajaran
+# Course Outline
 ### Week 1
 ##### W1D1 - Data Science & Machine Learning
 ##### W1D2 - Algoritma & Dataset
